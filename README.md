@@ -3,16 +3,12 @@
 A clean and responsive Netflix clone built using **React.js**. This project replicates the Netflix homepage UI, showcasing reusable components, dynamic routing, hover interactions, and mock content cards.
 
 
-
 ## 📸 Preview
 
-| Home Page | Browse Section |
-|-----------|----------------|
-| ![Home](Preview/home.png) | ![Browse](preview/browse.png) |
+![Home Page](Preview/Home.png)
 
-> Add your screenshots or screen recordings inside the `preview/` folder.
-
----
+![Login Section](Preview/Login.png)
+![SignUp Section](Preview/Sign.png)
 
 ## 🚀 Features
 
